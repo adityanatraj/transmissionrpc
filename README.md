@@ -36,6 +36,8 @@ func main() {
 
 ## Yet Incomplete
 
+01/25: currently fixing an issue with add and torrent-duplicate behavior.
+
 Relative to the [available RPC spec](https://trac.transmissionbt.com/browser/branches/1.7x/doc/rpc-spec.txt?order=name), the current progress is:
 - 3.1 Torrent Actions {Start, Stop, Verify, Reannounce} - done
 - 3.2 Torrent Mutation {}
