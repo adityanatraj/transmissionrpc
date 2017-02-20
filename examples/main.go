@@ -19,7 +19,7 @@ func main() {
 	// fmt.Println(err)
 	// }
 
-	// url := "https://passthepopcorn.me/torrents.php?action=download&id=469029&authkey=fa7b212371a0c99612ee928628bdd471&torrent_pass=onepnhzs0s8mqe11kbx2qwkdmjiex5nu"
+	// url := "https://someurlwithatorrent"
 	// added, err := t.AddFromURL(url, transmission.AddParams{
 	// 	DownloadDir: "/media/anatraj/Monopoly/Media/HD_Movies/",
 	// 	Paused:      true,
